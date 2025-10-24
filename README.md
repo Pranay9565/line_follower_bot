@@ -1,6 +1,6 @@
 # line_follower_bot
-This repo contains line follower arduino code/
-ALgorithms I got to know about:
+This repo contains line follower arduino code both basic and advanced/
+Algorithms I got to know about:
 1. Bang-Bang Control:
    it is the simplest form of algorithm
 2. Proportional (P) Control:
