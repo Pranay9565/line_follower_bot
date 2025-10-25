@@ -7,3 +7,5 @@ Algorithms I got to know about:
    it uses amount of deviation from center line to proportionally adjust motor speed
 3. proportional integral control:
    adds integral term for the amount of error accumulated over a trial
+4. PID control:
+   proportional integral derivative, integrates P I D for full control
